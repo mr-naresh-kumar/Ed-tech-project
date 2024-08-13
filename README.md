@@ -1,2 +1,2 @@
 # Ed-tech-project
-MERN
+Using MERN Stack https://studynotion-frontend-lyart.vercel.app/
